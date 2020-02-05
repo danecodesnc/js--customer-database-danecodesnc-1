@@ -1,0 +1,9 @@
+Need one div tag per customer and they are styled the same. 
+Need to put a div tag for each individual customer and their specifications. 
+
+
+You will need to link your javascript files first.
+Once you have the links in the HTML file, you will need to write an h1 tag.
+Then you will need to create a div tag and create an id to attach to your javascript.
+Next you will go to customers.js and you loop through them one by one. You create DOM nodes and attach them.
+
